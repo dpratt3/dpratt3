@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, Redux, and Flask
 - 👯 I’m looking to collaborate on data-driven, computational web applications
 - 🤔 I’m looking for help with application deployment; the hosting of large databases
-- 💬 Ask me about ... [PLACEHOLDER]
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-pratt/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play a MIDI-compatible five-string [electric violin](https://www.electricviolinshop.com/media/catalog/product/cache/06d8bd51b89dcb6b010cb9f1eb240c4c/j/a/jazzfusion5zf_glossblack_headongoogle_1.jpg) for fun
